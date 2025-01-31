@@ -1,3 +1,10 @@
+
+
+![own](https://github.com/user-attachments/assets/c3b44e43-0cab-4b89-8de9-f0cabff26a21)
+
+
+
+
 - 👋 Hi, I’m anik
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning python and machine learning
